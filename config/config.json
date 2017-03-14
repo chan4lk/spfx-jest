@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/jestDemoApp/JestDemoAppWebPart.js",
+      "manifest": "./src/webparts/jestDemoApp/JestDemoAppWebPart.manifest.json",
+      "outputPath": "./dist/jest-demo-app.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "jestDemoAppStrings": "webparts/jestDemoApp/loc/{locale}.js"
+  }
+}

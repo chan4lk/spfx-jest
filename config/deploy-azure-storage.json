@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "jest-demo",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

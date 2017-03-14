@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "jest-demo-client-side-solution",
+    "id": "492c5742-2bd7-4647-bfe0-aa2320aeae60",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/jest-demo.sppkg"
+  }
+}

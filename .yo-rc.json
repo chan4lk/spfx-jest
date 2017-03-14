@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "jest-demo",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "492c5742-2bd7-4647-bfe0-aa2320aeae60"
+  }
+}
